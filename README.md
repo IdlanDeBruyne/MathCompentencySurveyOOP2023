@@ -4,3 +4,5 @@ In order to be included in a national ranking exercise, secondary schools may ch
 
 The MoE would like to be able to do the following calculation over the years :
 Get the score for a particular school in a particular year list out the average score for each school list out the standard deviation for each school sort the list
+
+NOTE // Make sure the codes is in ONE PACKAGE
